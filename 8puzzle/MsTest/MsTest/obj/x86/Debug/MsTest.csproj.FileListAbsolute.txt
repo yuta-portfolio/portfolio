@@ -1,0 +1,8 @@
+C:\Users\YutaKawai\AppData\Local\Temporary Projects\MsTest\bin\Debug\MsTest.exe
+C:\Users\YutaKawai\AppData\Local\Temporary Projects\MsTest\bin\Debug\MsTest.pdb
+C:\Users\YutaKawai\AppData\Local\Temporary Projects\MsTest\obj\x86\Debug\MsTest.exe
+C:\Users\YutaKawai\AppData\Local\Temporary Projects\MsTest\obj\x86\Debug\MsTest.pdb
+d:\documentsd\visual studio 2010\Projects\MsTest\MsTest\obj\x86\Debug\MsTest.exe
+d:\documentsd\visual studio 2010\Projects\MsTest\MsTest\obj\x86\Debug\MsTest.pdb
+d:\documentsd\visual studio 2010\Projects\MsTest\MsTest\bin\Debug\MsTest.exe
+d:\documentsd\visual studio 2010\Projects\MsTest\MsTest\bin\Debug\MsTest.pdb
