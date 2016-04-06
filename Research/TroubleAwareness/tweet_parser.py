@@ -829,6 +829,7 @@ def make_twitter_request(twitter_api_func,max_errors=10,*args,**kw):
                 print >> sys.stderr,"Too many consecutive errors...bailing out."
                 raise
 
+
 def harvest_user_timeline(twitter_api,screen_name=None,user_id=None,max_results=1000):
     u"""ユーザーのタイムラインを取得する
 
